@@ -2,7 +2,7 @@
 
 # To Get Going
 
-Create a new file under `config` called `local.json` with the following:
+Create a new file under `config` called `dev.json` with the following:
 
 ```
 {
@@ -11,7 +11,7 @@ Create a new file under `config` called `local.json` with the following:
 }
 ```
 
-NOTE: The file must be named `local.json`. Also, do not commit it to git. It should be ignored automatically if it was named correctly.
+NOTE: The file must be named `dev.json`. Also, do not commit it to git. It should be ignored automatically if it was named correctly.
 
 ````sh
 $ npm install
