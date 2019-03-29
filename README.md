@@ -20,4 +20,4 @@ $ npm start
 
 ## To Try It Out
 
-Make and HTTP POST to http://localhost:8080/episode with a `x-www-form-urlencoded` and a `text=<episode number>` paramater.
+Make an HTTP POST to http://localhost:8080/episode with a `x-www-form-urlencoded` and a `text=<episode number>` paramater.
